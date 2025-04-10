@@ -32,9 +32,7 @@ This is a simple yet functional **Java-based Scientific Calculator** developed u
    java Calculator
    ```
 
-## Screenshot
 
-*(Insert a screenshot or GIF of the calculator UI here if available)*
 
 ## Tools Used
 
